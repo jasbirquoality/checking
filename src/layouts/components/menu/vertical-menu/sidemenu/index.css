@@ -1,0 +1,16 @@
+.item{
+    margin: 5px 5px 5px 5px;
+    padding: 10px 5px 10px 5px;
+}
+
+.item:hover{
+     background-color: #d9dbda;
+     color: black;
+    
+}
+
+.text{
+    color: black;
+}
+
+
